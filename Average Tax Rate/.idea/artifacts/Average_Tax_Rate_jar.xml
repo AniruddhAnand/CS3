@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Average Tax Rate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Average_Tax_Rate_jar</output-path>
+    <root id="archive" name="Average Tax Rate.jar">
+      <element id="module-output" name="Average Tax Rate" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Attendance">
+    <output-path>$PROJECT_DIR$/out/artifacts/Attendance</output-path>
+    <root id="archive" name="TSA.jar">
+      <element id="module-output" name="TSA" />
+    </root>
+  </artifact>
+</component>

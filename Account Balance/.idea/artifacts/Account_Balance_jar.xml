@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Account Balance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Account_Balance_jar</output-path>
+    <root id="archive" name="Account Balance.jar">
+      <element id="module-output" name="Account Balance" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Attendance">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TSA/out/artifacts/Attendance/Attendance.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

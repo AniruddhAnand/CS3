@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Vowels">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TSA/out/artifacts/Vowels/Vowels.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

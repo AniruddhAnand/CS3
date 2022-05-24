@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Account Balance/Account Balance.iml" filepath="$PROJECT_DIR$/Account Balance/Account Balance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdditionGame/AdditionGame.iml" filepath="$PROJECT_DIR$/AdditionGame/AdditionGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Attendance/Attendance.iml" filepath="$PROJECT_DIR$/Attendance/Attendance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Average Tax Rate/Average Tax Rate.iml" filepath="$PROJECT_DIR$/Average Tax Rate/Average Tax Rate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BattingAvg/BattingAvg.iml" filepath="$PROJECT_DIR$/BattingAvg/BattingAvg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boggle/Boggle.iml" filepath="$PROJECT_DIR$/Boggle/Boggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boomerangs/Boomerangs.iml" filepath="$PROJECT_DIR$/Boomerangs/Boomerangs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Brick/Brick.iml" filepath="$PROJECT_DIR$/Brick/Brick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cemetary/Cemetary.iml" filepath="$PROJECT_DIR$/Cemetary/Cemetary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cryptography/Cryptography.iml" filepath="$PROJECT_DIR$/Cryptography/Cryptography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cs 3.iml" filepath="$PROJECT_DIR$/.idea/Cs 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeDatabase/EmployeeDatabase.iml" filepath="$PROJECT_DIR$/EmployeeDatabase/EmployeeDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForestFires/ForestFires.iml" filepath="$PROJECT_DIR$/ForestFires/ForestFires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameOfLife/GameOfLife.iml" filepath="$PROJECT_DIR$/GameOfLife/GameOfLife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GemMatching/GemMatching.iml" filepath="$PROJECT_DIR$/GemMatching/GemMatching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph Labs/Graph Labs.iml" filepath="$PROJECT_DIR$/Graph Labs/Graph Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuitarHero/GuitarHero.iml" filepath="$PROJECT_DIR$/GuitarHero/GuitarHero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuffmanCoding/HuffmanCoding.iml" filepath="$PROJECT_DIR$/HuffmanCoding/HuffmanCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListQueue/LinkedListQueue.iml" filepath="$PROJECT_DIR$/LinkedListQueue/LinkedListQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MazeSolver/MazeSolver.iml" filepath="$PROJECT_DIR$/MazeSolver/MazeSolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MelodyMaker/MelodyMaker.iml" filepath="$PROJECT_DIR$/MelodyMaker/MelodyMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinHeap/MinHeap.iml" filepath="$PROJECT_DIR$/MinHeap/MinHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBST/MyBST.iml" filepath="$PROJECT_DIR$/MyBST/MyBST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/MyStack/MyStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberList/NumberList.iml" filepath="$PROJECT_DIR$/NumberList/NumberList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneBook/PhoneBook.iml" filepath="$PROJECT_DIR$/PhoneBook/PhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Quiz/Quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopping Cart/Shopping Cart.iml" filepath="$PROJECT_DIR$/Shopping Cart/Shopping Cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snowflake/Snowflake.iml" filepath="$PROJECT_DIR$/Snowflake/Snowflake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sound/Sound.iml" filepath="$PROJECT_DIR$/Sound/Sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Traveling Salesperson/Traveling Salesperson.iml" filepath="$PROJECT_DIR$/Traveling Salesperson/Traveling Salesperson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwentyQuestions/TwentyQuestions.iml" filepath="$PROJECT_DIR$/TwentyQuestions/TwentyQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/USACO3/USACO3.iml" filepath="$PROJECT_DIR$/USACO3/USACO3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultima/Ultima.iml" filepath="$PROJECT_DIR$/Ultima/Ultima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unsortable/Unsortable.iml" filepath="$PROJECT_DIR$/Unsortable/Unsortable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vowels/Vowels.iml" filepath="$PROJECT_DIR$/Vowels/Vowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordLadderProject/WordLadderProject.iml" filepath="$PROJECT_DIR$/WordLadderProject/WordLadderProject.iml" />
+    </modules>
+  </component>
+</project>

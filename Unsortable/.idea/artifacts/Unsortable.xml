@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Unsortable">
+    <output-path>$PROJECT_DIR$/out/artifacts/Unsortable</output-path>
+    <root id="archive" name="Unsortable.jar">
+      <element id="module-output" name="Unsortable" />
+    </root>
+  </artifact>
+</component>
